@@ -1,11 +1,11 @@
 Privacy Policy
 Last Updated: June 4, 2025
 
-Retro ("the Bot") is a Discord bot developed to provide entertainment and utility features within Discord servers. This Privacy Policy explains what data we collect, how we use it, and your rights regarding that data.
+Frexo ("the Bot") is a Discord bot developed to provide entertainment and utility features within Discord servers. This Privacy Policy explains what data we collect, how we use it, and your rights regarding that data.
 
 1. Data We Collect
 
-Retro may collect and store the following data:
+Frexo may collect and store the following data:
 
 User ID, Server ID, Channel ID – used to identify users, servers, and channels for feature tracking and functionality.
 
